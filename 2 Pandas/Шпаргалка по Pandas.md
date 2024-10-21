@@ -49,6 +49,9 @@ print(df)
 ```
 
 ### Работа с DataFrame
+
+> Скачать **датасет** можно с [репозитория урока](https://github.com/ivanoskov/ml-fabpro/blob/main/2%20Pandas/police.csv)
+
 ```python
 # Загрузка данных из CSV файла
 df = pd.read_csv('police.csv')
