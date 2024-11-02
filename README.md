@@ -1,2 +1,2 @@
 # ml-fabpro
-Код с лекций по ML &amp; Data Science в СПбПУ
+Код, презентации, датасеты и материалы с лекций по ML &amp; Data Science в СПбПУ
